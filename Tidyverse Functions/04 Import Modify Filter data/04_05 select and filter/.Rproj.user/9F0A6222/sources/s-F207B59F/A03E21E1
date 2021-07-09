@@ -1,0 +1,32 @@
+{
+    "id": "A03E21E1",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1625822334339.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "transport_data",
+        "caption": "transport_data",
+        "totalObservations": 670,
+        "displayedObservations": 670,
+        "variables": 8,
+        "cacheKey": "09E51E22",
+        "object": "transport_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=transport_data&cache_key=09E51E22&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8319395793567310703,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1625822334339,
+    "read_only": false,
+    "read_only_alternatives": []
+}
